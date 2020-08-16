@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>avatar.jpg</file>
+        <file>font.ttf</file>
+        <file>fa-solid-900.ttf</file>
+    </qresource>
+</RCC>

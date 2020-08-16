@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>components/qmldir</file>
+        <file>components/Headline.qml</file>
+        <file>components/EducationElement.qml</file>
+        <file>components/SkillElement.qml</file>
+        <file>components/JobELement.qml</file>
+    </qresource>
+</RCC>

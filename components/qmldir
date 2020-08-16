@@ -1,0 +1,5 @@
+module components
+Headline 1.0 Headline.qml
+EducationElement 1.0 EducationElement.qml
+SkillElement 1.0 SkillElement.qml
+JobELement 1.0 JobELement.qml
